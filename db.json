@@ -1,0 +1,249 @@
+{
+  "Parties": [
+    {
+      "id": 1,
+      "name": "Hello Test",
+      "level": 2,
+      "Ref": 1,
+      "children": [
+        {
+          "id": 2,
+          "name": "Test 1",
+          "SmTitre": "SmTitre 1",
+          "ind": 10,
+          "nbr": 10,
+          "Ref": 1,
+          "Random": 23,
+          "children": [
+            {
+              "id": 3,
+              "name": "child 1",
+              "Ref": 1,
+              "favortite": 0,
+              "children": [
+                {
+                  "id": 4,
+                  "name": "child 2",
+                  "Ref": 1,
+                  "children": [
+                    {
+                      "id": 98,
+                      "name": "child 5",
+                      "Ref": 1,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 15,
+              "name": "Child 2",
+              "Ref": 1,
+              "favortite": 0,
+              "children": [
+                {
+                  "id": 97,
+                  "name": "Child 3",
+                  "Ref": 1,
+                  "children": [
+                    {
+                      "id": 88,
+                      "name": "child 5",
+                      "Ref": 1,
+                      "children": [
+                        {
+                          "id": 89,
+                          "name": "child 6",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Test 2",
+          "SmTitre": "SmTitre 2",
+          "ind": 9,
+          "nbr": 0,
+          "Random": 24,
+          "Ref": 1,
+          "children": [
+            {
+              "id": 90,
+              "name": "child 6",
+              "Ref": 1,
+              "children": [
+                {
+                  "id": 91,
+                  "name": "child 7",
+                  "Ref": 1,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Partie 2",
+      "level": 1,
+      "Ref": 2,
+      "children": [
+        {
+          "id": 7,
+          "name": "Test",
+          "SmTitre": "SmTitre 1",
+          "ind": 7,
+          "nbr": 89,
+          "Ref": 2,
+          "Random": 56,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Partie 3",
+      "level": 0,
+      "Ref": 3,
+      "children": [
+        {
+          "id": 10,
+          "name": "Test",
+          "SmTitre": "SmTitre 3",
+          "ind": 6,
+          "nbr": 67,
+          "Random": 21,
+          "Ref": 3,
+          "children": [
+            {
+              "id": 11,
+              "name": "Test child",
+              "Ref": 3,
+              "children": [
+                {
+                  "id": 13,
+                  "name": "small child",
+                  "Ref": 3,
+                  "children": [
+                    {
+                      "id": 19,
+                      "name": "small child",
+                      "Ref": 3,
+                      "children": [
+                        {
+                          "id": 45,
+                          "name": "Child ",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Pays": [
+    {
+      "id": 1,
+      "name": "Maroc"
+    },
+    {
+      "id": 2,
+      "name": "Tunisie"
+    },
+    {
+      "id": 3,
+      "name": "Sénégale"
+    },
+    {
+      "id": 4,
+      "name": "Egypte"
+    }
+  ],
+  "Article": [
+    {
+      "id": 1,
+      "Name": "Act 1",
+      "Text": "qu’il n’a été décelé aucun indice concret ni aucun motif raisonnable fondé sur des indices concrets permettant de considérer que la présence de la personne sur le territoire des États membres présente ou présentera un risque en matière de sécurité ou d’immigration illégale ou un risque épidémique élevé qu’il n’a été décelé aucun indice concret ni aucun motif raisonnable fondé sur des indices concrets permettant de considérer   d’immigration illégale ou un risque épidémique élevé, bien qu’il subsiste des doutes quant à l’existence de raisons suffisantes Le droit d’obtenir une autorisation de voyage n’est pas inconditionnel, puisqu’il peut être refusé aux membres de la famille qui préoccupations en matière de sécurité, et non pas de celles liées aux risques en matière de migration préoccupations en matière de sécurité, et non pas de celles liées aux risques en matière de migration la sécurité. De même, l’examen de leur demande d’autorisation de voyage devrait être effectué exclusivement au regard",
+      "Image": "https://images.pexels.com/photos/4160068/pexels-photo-4160068.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "Ref": 1,
+      "nbr": 10,
+      "favortite": 1
+    },
+    {
+      "id": 2,
+      "Name": "Act 2",
+      "Text": "1. Le présent règlement crée un «système européen dinformation et d autorisation concernant les voyages» (ETIAS) pour les ressortissants de pays tiers exemptés de l obligation dêtre en possession d un visa lors du franchissement des frontières extérieures (ci-après dénommée «obligation de visa»), afin d estimer si la présence de ces ressortissants de pays tiers sur le territoire des États membres est susceptible de présenter un risque en matière de sécurité ou d’immigration illégale ou un risque épidémique élevé. À cette fin, une autorisation de voyage est instituée et les conditions et procédures relatives à sa délivrance ou à son refus sont définies.2. Le présent règlement fixe les conditions dans lesquelles les autorités désignées des États membres et Europol peuvent consulter les données conservées dans le système central ETIAS aux fins de la prévention et de la détection des infractions terroristes ou d autres infractions pénales graves relevant de leur compétence, ainsi qu aux fins des enquêtes en la matière.",
+      "Image": "https://images.pexels.com/photos/4160068/pexels-photo-4160068.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "Ref": 1,
+      "nbr": 0,
+      "favortite": 0
+    },
+    {
+      "id": 3,
+      "Name": "Act 3",
+      "Text": "The Catering was founded in blabla by Mr. Smith in lorem ipsum dolor sit amet, consectetur adipiscing elit consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.We only use  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat personnes toutes facilités pour obtenir l’autorisation de voyage nécessaire, et ce gratuitement. ce contexte, il peut être exigé des membres de la famille qu’ils fournissent les données à caractère personnel relatives ou d’immigration illégale ou un risque épidémique élevé. Une autorisation de voyage devrait dès lors constituer  ",
+      "Image": "https://images.pexels.com/photos/4160068/pexels-photo-4160068.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "Ref": 3,
+      "nbr": 67,
+      "favortite": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Said"
+    },
+    {
+      "id": 2,
+      "name": "Badr"
+    },
+    {
+      "id": 3,
+      "name": "Testo"
+    },
+    {
+      "id": 4,
+      "name": "Pedro"
+    }
+  ],
+  "Comments": [
+    {
+      "id": 1,
+      "Text": "Test Comment",
+      "RefArticle": 1,
+      "userid": 1
+    },
+    {
+      "id": 2,
+      "Text": "Test Comment 2",
+      "RefArticle": 2,
+      "userid": 2
+    },
+    {
+      "Text": "Hello Art 1",
+      "RefArticle": 1,
+      "userid": 2,
+      "id": 3
+    },
+    {
+      "Text": "Hello",
+      "RefArticle": 1,
+      "userid": 2,
+      "id": 4
+    }
+  ]
+}
