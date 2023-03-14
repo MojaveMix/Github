@@ -1,0 +1,187 @@
+body{
+  box-sizing: border-box;
+}
+
+
+.list{
+text-align: left;
+text-decoration: none;
+margin-bottom: 0px;
+color: rgb(23, 25, 27);
+padding: 8px;
+margin-bottom: 2px;
+margin-right: 6px;
+}
+div.test{
+  position: relative;
+  bottom: 16px; 
+
+}
+#Activity{
+  margin-bottom: 6px;
+
+  position: relative;
+  left: 20px;
+
+}
+
+#Title{
+  margin-left: 10px;
+}
+
+
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+
+#Articales{
+   width: 660px;
+   position: absolute;
+   left: 31%;
+   top: 158px;
+}
+
+#img-article{
+  float: right;
+}
+
+.artvle{
+margin-top: 20px;
+margin-left: 15px;
+}
+
+.smtitle{
+  position:absolute;
+  right: 10px;
+}
+
+div.listy{
+  position: -webkit-sticky;
+  position: fixed;
+  top: 0;
+  left: 44px;
+  top: 61px;
+}
+
+#favourite{
+  float: right;
+  margin-left: 5px;
+}
+
+
+#icon{
+  color: rgb(169, 169, 169);
+}
+
+#por{
+  position: relative;
+  right:418px;
+  top: 80px;
+}
+
+#tree{
+  position: relative;
+  top: 100px;
+}
+
+
+#col{
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+div.favorita{
+  position: relative;
+  top: 35px;
+  left: 30px;
+}
+
+.High{
+  background-color: yellow;
+  font-weight: 500;
+
+}
+
+.d{
+  text-decoration: none;
+}
+
+.positioner{
+  position : "relative" ;
+  top : 130px ; 
+  left : 210px ;
+}
+
+div.nav-mini{
+position: absolute;
+right: 226px;
+z-index: 3;
+top: 127px;
+}
+
+.monlin{
+  margin-right: 2px;
+}
+.navbar { background-color: #484848; }
+.navbar .navbar-nav .nav-link { color: #fff; }
+.navbar .navbar-nav .nav-link:hover { color: #fbc531; }
+.navbar .navbar-nav .active > .nav-link { color: #fbc531; }
+
+
+
+.styleNav{
+  text-decoration: none;
+  color: black;
+  background-color: whitesmoke;
+  padding: 8px;
+  border-radius: 2px;
+  border: 1px solid rgb(111, 111, 111);
+
+}
+
+.styleNav:hover{
+  color: rgb(255, 255, 255);
+  background-color: #302f2f;
+  transition: .5s;
+  border: 1px solid rgb(207, 207, 207);
+
+}
+
+#folder{
+  color: #dcb13b;
+}
+
+#folder:hover{
+  color: #78601f;
+  transition: .4s;
+  
+}
+
+
+
+
+
+#pdf{
+  color: rgb(181, 0, 0);
+}
+
+#print{
+  color: #474646;
+}
+
+
+#print:hover{
+  color: #c9c7c7;
+  transition: .5s;
+}
+
+
+
+
+.avs{
+  color: rgb(255, 255, 255);
+  background-color: #302f2f;
+  border: 1px solid rgb(207, 207, 207);
+}
